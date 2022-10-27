@@ -18,7 +18,7 @@
 # ======================================= Rules ========================================
 
 
-# from ast import pattern
+from ast import pattern
 import pygame
 import numpy as np
 
